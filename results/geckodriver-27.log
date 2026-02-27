@@ -1,0 +1,20 @@
+1772175342314	geckodriver	INFO	Listening on 127.0.0.1:60799
+1772175345408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KARDOS~1\\AppData\\Local\\Temp\\rust_mozprofileaK1Ved"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1772175345624	Marionette	INFO	Marionette enabled
+1772175345694	Marionette	INFO	Listening on port 49957
+WebDriver BiDi listening on ws://127.0.0.1:60800
+Read port: 49957
+1772175345773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: resource://gre/actors/SelectChild.sys.mjs, line 93: TypeError: can't access property "openInParentProcess", this.element is null
+JavaScript warning: https://www.saucedemo.com/static/js/main.bcf4bc5f.js, line 2: Script terminated by timeout at:
+get@https://www.saucedemo.com/static/js/main.bcf4bc5f.js:2:507285
+89083/r/936/t/7429/value/<@https://www.saucedemo.com/static/js/main.bcf4bc5f.js:2:440891
+
+1772175365036	Marionette	INFO	Stopped listening on port 49957
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
