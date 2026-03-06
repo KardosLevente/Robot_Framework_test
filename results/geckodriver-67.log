@@ -1,0 +1,16 @@
+1772785364205	geckodriver	INFO	Listening on 127.0.0.1:59043
+1772785367308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KARDOS~1\\AppData\\Local\\Temp\\rust_mozprofileNv7BDU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1772785367524	Marionette	INFO	Marionette enabled
+1772785367590	Marionette	INFO	Listening on port 59089
+WebDriver BiDi listening on ws://127.0.0.1:59044
+Read port: 59089
+1772785367681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: moz-src:///browser/components/search/SearchOneOffs.sys.mjs, line 392: TypeError: aEngine.getIconURL is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
